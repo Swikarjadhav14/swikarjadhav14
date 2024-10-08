@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Swikar Jadhav
 
-I'm an enthusiastic **MERN Stack Developer** and an **AI/ML Enthusiast** with a love for building innovative applications. I have experience in developing robust web solutions using the **MERN** technologies, and I've also worked on chatbot projects that leverage AI to enhance user experience.
+I'm a passionate **MERN Stack Developer** and **AI/ML Enthusiast**, skilled in building innovative applications and chatbot projects.
 
 ## 🚀 Skills
 
