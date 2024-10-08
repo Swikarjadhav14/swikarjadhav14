@@ -28,6 +28,6 @@ Here are some of my notable projects:
 
 ## 📫 Get in Touch
 - **LinkedIn**: [Your LinkedIn Profile](https://in.linkedin.com/in/swikar-jadhav-526598244)
-- **Email**: [your.email@example.com](mailto:swikarjadhav14@gmail.com)
+- **Email**: [swikarjadhav14@gmail.com](swikarjadhav14@gmail.com)
 
 Thank you for visiting my profile! 🚀
