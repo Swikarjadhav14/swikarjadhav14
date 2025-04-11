@@ -1,33 +1,39 @@
-# 👋 Hello! I'm Swikar Jadhav
+# 👋 Hey there, I'm Swikar Jadhav
 
-I'm a passionate **MERN Stack Developer** and **AI/ML Enthusiast**, skilled in building innovative applications and chatbot projects.
+AI/ML Intern @ Atraeus Next Gen • MERN Stack Developer  
+Currently exploring DevOps, Cloud, and intelligent system design.
 
-## 🚀 Skills
+---
 
-### 💻 Technologies
-- **MongoDB** 🌱
-- **Express.js** 🚀
-- **React.js** 🎨
-- **Node.js** ⚙️
+## 🚀 Tech Stack & Interests
 
-### 🤖 AI/ML
-- Chatbot Development
-- Machine Learning Algorithms
-- Data Analysis
+### 💻 Full Stack Web Development
+- **MongoDB** | **Express.js** | **React.js** | **Node.js**
+- REST APIs | JWT Auth | Socket.IO | WebSockets
+- State Management: Redux / Context API
+- TailwindCSS | Material UI | Responsive Design
+- SSR & SEO with Next.js *(Exploring)*
 
-## 🌟 Projects
-Here are some of my notable projects:
+### 🤖 AI/ML & Data Science
+- **Computer Vision** – Object Detection, Image Classification, OpenCV
+- **Natural Language Processing** – Text Classification, Chatbots, Transformers
+- **Named Entity Recognition (NER)** – Custom & Pretrained Models (SpaCy, BERT)
+- Model Training & Evaluation (scikit-learn, TensorFlow, PyTorch)
+- Data Cleaning, Feature Engineering, Model Deployment
 
-- **SocioBot** 🤖
-  - Developed a multilingual chatbot for an NGO using Botpress.
-  - Integrated natural language processing to understand user queries effectively.
+### ☁️ DevOps & Cloud (Exploring)
+- Docker & Containerization
+- GitHub Actions & CI/CD
+- AWS (EC2, S3, Lambda) | GCP (App Engine, Firebase)
+- Deployment: NGINX, PM2, Docker Compose
 
-- **CodeSync** 💻
-  - A collaborative code editor and compiler built with the MERN stack.
-  - Allows users to code together in real-time and compile their projects seamlessly.
+---
 
-## 📫 Get in Touch
-- **LinkedIn**: [Your LinkedIn Profile](https://in.linkedin.com/in/swikar-jadhav-526598244)
-- **Email**: [swikarjadhav14@gmail.com](swikarjadhav14@gmail.com)
+## 📬 Connect With Me
 
-Thank you for visiting my profile! 🚀
+- 🔗 [LinkedIn](https://in.linkedin.com/in/swikar-jadhav-526598244)
+- 📧 [swikarjadhav14@gmail.com](mailto:swikarjadhav14@gmail.com)
+
+---
+
+> *Turning ideas into smart, scalable, and stunning digital realities.* ⚡
