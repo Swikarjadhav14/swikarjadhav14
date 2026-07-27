@@ -4,13 +4,15 @@
 
 ### A passionate Software Developer
 
-[languages graph](https://github.com/swikarjadhav14/swikarjadhav14/blob/main/github-metrics.svg)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarjadhav14&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="languages graph"/>
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,react,nodejs,express,mongodb,mysql&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,mysql&theme=dark"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,git,github,docker,aws,nginx,linux,spring&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,mongodb,junit&theme=dark"/>
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,aws&theme=dark"/>
 
 <br/><br/>
 
