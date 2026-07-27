@@ -1,70 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Swikar%20Jadhav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack%20%7C%20Exploring%20AI%2FML%20and%20Observability&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%25"/>
 
-<a href="https://in.linkedin.com/in/swikar-jadhav-526598244"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:swikarjadhav14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/swikarjadhav14"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://leetcode.com/swikarjadhav14"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+```
+╭─ swikarjadhav14 ────────────────────────────────────────────────╮
+│ guest@github:~$ whoami                                          │
+╰───────────────────────────────────────────────────────────────╯
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=1000&color=39FF14&background=0D111700&center=true&vCenter=true&width=600&lines=Swikar+Jadhav;Backend+%2F+Full-Stack+Engineer;Java+%C2%B7+Spring+Boot+%C2%B7+MERN;Building+ObserverAI+%E2%80%94+observability+%2B+LLM+RCA" alt="typing"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Digital+Thread+features+in+Java+%26+Spring+Boot;Shipping+full-stack+MERN+products;Designing+ML-powered+observability+systems;500%2B+DSA+problems+solved+on+LeetCode" alt="Typing SVG" />
+<img src="https://img.shields.io/badge/-Pune,_India-0D1117?style=flat-square&logo=googlemaps&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-swikarjadhav14@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/-LeetCode_1900+-0D1117?style=flat-square&logo=leetcode&logoColor=39FF14"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
+```bash
+guest@github:~$ cat about.json
+```
 
-## 🧭 About Me
-
-```yaml
-name: Swikar Jadhav
-location: Pune, Maharashtra, India
-education: B.E. Information Technology @ Pune Institute of Computer Technology (2026, CGPA 9.28)
-role: Software Engineer — backend/full-stack, with AI/ML depth
-currently:
-  - 🔭 Shipping backend features for an enterprise data-integration platform (Java, Spring Boot)
-  - 🧠 Building ObserverAI — an OpenTelemetry-based observability & anomaly-detection platform
-  - 📈 500+ DSA problems solved on LeetCode (1900+ rating)
-  - 🏆 Top 5 / 200+ teams — Mastercard Code for Change Hackathon
+```json
+{
+  "role": "Software Engineer",
+  "focus": ["backend", "full-stack", "observability/ML"],
+  "education": "B.E. IT @ PICT, Pune — CGPA 9.28 (2026)",
+  "currently": "shipping Java/Spring Boot features + building ObserverAI",
+  "leetcode": "500+ solved, 1900+ rating",
+  "hackathon": "Top 5/200+ — Mastercard Code for Change"
+}
 ```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
-
-## 💼 Experience
+```bash
+guest@github:~$ cat experience.log
+```
 
 <table>
+<tr><td width="4%">🟢</td><td width="46%"><code>eQ Technologic</code> — SDE Intern <sub>Jan–Apr 2026</sub></td><td width="4%">🟢</td><td width="46%"><code>Astraeus Next Gen</code> — AI/ML Intern <sub>Feb–Apr 2025</sub></td></tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2">
 
-### 🏢 eQ Technologic
-**SDE Intern** · Jan 2026 – Apr 2026
-
-Shipped new features for the **Digital Thread Application (DTA)**, an enterprise data-integration platform.
-
-- Built REST APIs & service-layer logic in **Java / Spring Boot**
-- Validated features with **JUnit**, delivered via Agile Git workflows
-- Peer-reviewed, production-bound changes
-
-`Java` `Spring Boot` `REST APIs` `JUnit` `Git`
+REST APIs + service logic for the Digital Thread App, in Java/Spring Boot. JUnit-tested, Agile/Git workflow.
+`Java` `Spring Boot` `JUnit`
 
 </td>
-<td width="50%" valign="top">
+<td colspan="2">
 
-### 🤖 Astraeus Next Gen Pvt. Ltd.
-**AI/ML Intern** · Feb 2025 – Apr 2025
-
-Built an autonomous AI agent for real-time identification from CCTV streams.
-
-- Integrated **SpeechBrain** + **FaceNet** → 76% accuracy
-- Applied **transformer models** for audio-based speaker recognition
-- Engineered network analysis modules for pipeline coverage
-
-`Python` `SpeechBrain` `FaceNet` `Transformers`
+Autonomous CCTV identification agent — SpeechBrain + FaceNet @ 76% accuracy. Transformer-based speaker recognition.
+`Python` `SpeechBrain` `FaceNet`
 
 </td>
 </tr>
@@ -72,166 +62,95 @@ Built an autonomous AI agent for real-time identification from CCTV streams.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
-
-## 🚀 Featured Build
+```bash
+guest@github:~$ ./run --project=observerai --mode=featured
+```
 
 <div align="center">
 
-### 🔭 ObserverAI — Cognitive Observability & Forensics Platform
+### `> ObserverAI_` <sub>cognitive observability & forensics platform</sub>
 
-*Distributed tracing, real-time anomaly detection, and LLM-powered root-cause analysis — the same building blocks behind Datadog, Honeycomb & Grafana, built end-to-end.*
-
-<img src="https://img.shields.io/badge/status-active-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-native-000000?style=flat-square&logo=opentelemetry&logoColor=white"/>
-<img src="https://img.shields.io/badge/stream_processing-Bytewax-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/RCA-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/status-active-39FF14?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/OTel-native-39FF14?style=flat-square&labelColor=0D1117&logo=opentelemetry&logoColor=39FF14"/>
+<img src="https://img.shields.io/badge/stream-Bytewax-39FF14?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/RCA-Gemini-39FF14?style=flat-square&labelColor=0D1117&logo=googlegemini&logoColor=39FF14"/>
 
 </div>
 
-> Add a live screenshot before publishing: run `./start.sh`, generate traffic with `./traffic.sh 60 mixed 5`, screenshot `http://localhost:5173`, save to `docs/screenshot-dashboard.png`, then uncomment the line below.
->
-> `![Dashboard](docs/screenshot-dashboard.png)`
+```yaml
+ingest:    OTLP, any language/framework, zero code changes
+pipeline:  Bytewax dataflow ← RabbitMQ, tumbling-window scoring
+detectors: rules (N+1, bimodal latency, chain breaks) + 5 online ML models
+           (LOF, HS-Trees, Isolation Forest, Autoencoder, One-Class SVM)
+security:  OTel Collector redacts PII at the edge → redaction-density metric
+rca:       trace → Gemini → structured root cause + fix
+stack:     Python · Bytewax · RabbitMQ · OpenTelemetry · Docker · React
+repo:      github.com/swikarjadhav14/ObserverAI
+```
 
-<table>
-<tr><td>
+<sub>screenshot: `./start.sh` → `./traffic.sh 60 mixed 5` → capture `localhost:5173` → `docs/screenshot-dashboard.png`</sub>
 
-**🔌 Vendor-neutral ingestion**
-Any service that speaks OTLP — any language, any framework — is picked up automatically, zero code changes.
+<br/>
 
-**⚡ Real-time stream processing**
-A **Bytewax** dataflow reconstructs distributed traces from a **RabbitMQ** stream and scores them in tumbling windows.
+```bash
+guest@github:~$ ls projects/
+```
 
-**🧪 Hybrid anomaly detection**
-Rule-based detectors (N+1 queries, bimodal latency, dependency-chain breaks) combined with **5 online/statistical ML models** — LOF, HS-Trees, Isolation Forest, Autoencoder, One-Class SVM.
+| repo | what it does | stack |
+|---|---|---|
+| **[CodeSync](https://github.com/swikarjadhav14/CodeSync)** | live collab IDE, run C++/Py/JS via Judge0, CI/CD → 50% faster deploys | `React` `Node` `WebSockets` `Docker` |
+| **[SocioBot](https://github.com/swikarjadhav14/SocioBot)** | multilingual chatbot, self-updating KB, −60% manual support load | `React` `Node` `Botpress` `Docker` |
+| **[Loan-Risk-Analysis](https://github.com/swikarjadhav14/Loan-Risk-Analysis)** | Random Forest loan eligibility, 88%+ accuracy | `Python` `sklearn` `Pandas` |
 
-**🔐 PII redaction at the edge**
-The OTel Collector strips emails, card numbers, and author fields from log bodies before they leave the collector — tracked via a live "redaction density" security metric.
+<br/>
 
-**🧠 LLM-powered RCA**
-One click sends a reconstructed trace to **Gemini**, returning a structured root-cause diagnosis and suggested fix.
-
-</td></tr>
-</table>
+```bash
+guest@github:~$ cat stack.yml
+```
 
 <div align="center">
-
-`Python` `Bytewax` `RabbitMQ` `OpenTelemetry` `Docker` `React` `Gemini API`
-
-[**→ View Repository**](https://github.com/swikarjadhav14/ObserverAI)
-
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,mysql,spring,nodejs,express,react,nextjs&theme=dark"/>
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,aws,docker,githubactions,nginx,mongodb,git&theme=dark"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
-
-## 🛠️ More Projects
+```bash
+guest@github:~$ ./stats --user=swikarjadhav14
+```
 
 <div align="center">
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<img src="https://github-readme-stats.vercel.app/api?username=swikarjadhav14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarjadhav14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9" width="42%"/>
 
-**🖥️ [CodeSync](https://github.com/swikarjadhav14/CodeSync)**
+<img src="https://streak-stats.demolab.com/?user=swikarjadhav14&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" width="100%"/>
 
-Live collaborative IDE — multi-user C++/Python/JS editing & execution over WebSockets + Judge0 API. Dockerized, CI/CD via GitHub Actions → **50% faster deploys**.
-
-`React` `Node.js` `WebSockets` `Judge0` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-**💬 [SocioBot](https://github.com/swikarjadhav14/SocioBot)**
-
-Multilingual production chatbot on Botpress with a self-updating knowledge base and ticket escalation → **60% less manual support load**.
-
-`React` `Node.js` `Botpress` `Docker`
-
-</td>
-<td width="33%" valign="top">
-
-**📊 [Loan Risk Analysis](https://github.com/swikarjadhav14/Loan-Risk-Analysis)**
-
-Random Forest model for loan eligibility prediction with feature-driven explainability → **88%+ accuracy**.
-
-`Python` `scikit-learn` `Pandas` `Matplotlib`
-
-</td>
-</tr>
-</table>
+<details>
+<summary><code>$ ./trophies --expand</code></summary>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=swikarjadhav14&theme=chalk&no-frame=true&row=1&column=6&margin-w=8&bg=0D1117"/>
+</details>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
+```bash
+guest@github:~$ echo $STATUS
+```
 
-## 🧰 Tech Stack
+`500+ LeetCode solved (1900+)` · `Top 5/200+ — Mastercard Hackathon`
+
+<br/>
 
 <div align="center">
 
-**Languages**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:0d1117&height=2&width=100%25"/>
+
+<sub><code>guest@github:~$ █</code></sub>
 <br/>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,mysql"/>
-
-**Backend & Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,nextjs"/>
-
-**AI / ML**
-<br/>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv"/>
-
-**Cloud, DevOps & Data**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,mongodb,git"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=swikarjadhav14&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarjadhav14&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8" width="49%"/>
-
-<img src="https://streak-stats.demolab.com/?user=swikarjadhav14&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="100%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swikarjadhav14&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=swikarjadhav14&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" width="100%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:0f172a&height=3&width=100%25" width="100%"/>
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🎯 | Achievement |
-|---|---|
-| 🧩 | Solved **500+** DSA problems on LeetCode (**1900+** rating) |
-| 🥇 | **Top 5 of 200+ teams** — Mastercard Code for Change Hackathon |
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=150&section=footer&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-*"Turning ideas into clean, scalable, and intelligent systems."*
-
-<img src="https://komarev.com/ghpvc/?username=swikarjadhav14&label=Profile%20Views&color=6366f1&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=swikarjadhav14&label=views&color=0D1117&style=flat-square&labelColor=0D1117"/>
 
 </div>
