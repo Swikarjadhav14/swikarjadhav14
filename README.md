@@ -4,13 +4,9 @@
 
 ### A passionate Software Developer
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swikarjadhav14&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="languages graph"/>
-
-<br/>
-
 <img src="https://skillicons.dev/icons?i=java,cpp,python,js,mysql&theme=dark"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,mongodb,junit&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,react,mongodb&theme=dark"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,docker,aws&theme=dark"/>
 
